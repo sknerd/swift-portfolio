@@ -32,10 +32,10 @@ title="AppStore">&nbsp;&nbsp;
 
 <p align="left">
 <img src="images/gsm/gsm_match.gif" width="200" 
-title="AppStore">&nbsp;&nbsp
-<img src="images/gsm/tinderscr4.png" width="200"  title="AppStore">&nbsp;&nbsp;
-<img src="images/gsm/gsm_chat.gif" width="200" title="AppStore">&nbsp;&nbsp;
-<img src="images/gsm/tinderscr3.png" width="200" title="AppStore">&nbsp;&nbsp;
+title="GameSetMatch">&nbsp;&nbsp
+<img src="images/gsm/tinderscr4.png" width="200"  title="GameSetMatch">&nbsp;&nbsp;
+<img src="images/gsm/gsm_chat.gif" width="200" title="GameSetMatch">&nbsp;&nbsp;
+<img src="images/gsm/tinderscr3.png" width="200" title="GameSetMatch">&nbsp;&nbsp;
 </p>
 
 
@@ -52,10 +52,10 @@ title="AppStore">&nbsp;&nbsp
 
 <p align="left">
 <img src="images/podcasts/pod_player.gif" width="200" 
-title="AppStore">&nbsp;&nbsp
-<img src="images/podcasts/podcastsscr2.png" width="200"  title="AppStore">&nbsp;&nbsp;
-<img src="images/podcasts/pod_downloads.gif" width="200" title="AppStore">&nbsp;&nbsp;
-<img src="images/podcasts/podcastsscr1.png" width="200" title="AppStore">&nbsp;&nbsp;
+title="CocoaPodcasts">&nbsp;&nbsp
+<img src="images/podcasts/podcastsscr2.png" width="200"  title="CocoaPodcasts">&nbsp;&nbsp;
+<img src="images/podcasts/pod_downloads.gif" width="200" title="CocoaPodcasts">&nbsp;&nbsp;
+<img src="images/podcasts/podcastsscr1.png" width="200" title="CocoaPodcasts">&nbsp;&nbsp;
 </p>
 
 
@@ -73,10 +73,10 @@ title="AppStore">&nbsp;&nbsp
 
 <p align="left">
 <img src="images/maps/mapsscr1.png" width="200" 
-title="AppStore">&nbsp;&nbsp
-<img src="images/maps/maps_directions.gif" width="200"  title="AppStore">&nbsp;&nbsp;
-<img src="images/maps/maps_googlePlaces.gif" width="200" title="AppStore">&nbsp;&nbsp;
-<img src="images/maps/maps_local.gif" width="200" title="AppStore">&nbsp;&nbsp;
+title="Maps&Places">&nbsp;&nbsp
+<img src="images/maps/maps_directions.gif" width="200"  title="Maps&Places">&nbsp;&nbsp;
+<img src="images/maps/maps_googlePlaces.gif" width="200" title="Maps&Places">&nbsp;&nbsp;
+<img src="images/maps/maps_local.gif" width="200" title="Maps&Places">&nbsp;&nbsp;
 </p>
 
 
@@ -94,8 +94,8 @@ title="AppStore">&nbsp;&nbsp
 
 <p align="left">
 <img src="images/instagram/instagramscr1.png" width="200" 
-title="AppStore">&nbsp;&nbsp
-<img src="images/instagram/instagram.gif" width="200"  title="AppStore">&nbsp;&nbsp;
+title="Instagram Firebase">&nbsp;&nbsp
+<img src="images/instagram/instagram.gif" width="200"  title="Instagram Firebase">&nbsp;&nbsp;
 </p>
 
 
